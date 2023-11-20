@@ -1,5 +1,10 @@
 # Yang Haemi's GitHub ! 😚😚
 
+<p>cbnu student\n
+grade: 2\n
+major: computer engineering</p>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanghaemi&count_bg=%238E4E00&title_bg=%23FFE3B5&icon=github.svg&icon_color=%23000000&title=hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heau0105)](https://solved.ac/heau0105/)
