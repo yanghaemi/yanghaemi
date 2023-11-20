@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanghaemi&count_bg=%238E4E00&title_bg=%23FFE3B5&icon=github.svg&icon_color=%23000000&title=hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![cplusplus](https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=#00599C)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+
 <!--
 **yanghaemi/yanghaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
