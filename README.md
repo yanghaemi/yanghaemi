@@ -3,7 +3,7 @@
 
 ### Who am I? 😎 
 - 🏠 Korean
-- 😺 Interest: Web, Algorithm, Game ...
+- 😺 Interest: Web, App, Design, Algorithm, Game, Drawing ...
 ### Experience ⭐
 - ✏️ CBNU computer engineering student(2022.03~ )
   
