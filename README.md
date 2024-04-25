@@ -14,6 +14,7 @@
 ### --- Studying ---
 ![c++](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
+![java](https://img.shields.io/badge/java-00599C.svg?&style=for-the-badge&logo=java&logoColor=00599C)
 <!--
 **yanghaemi/yanghaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
