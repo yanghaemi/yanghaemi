@@ -1,5 +1,9 @@
 # Yang Haemi's GitHub
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/yanghaemi?pet-id=1" width="1000" height="120"/>
+</a>
+
 ### Tech 💻
 
 <img alt="C++" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-FF4000.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
