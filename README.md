@@ -1,7 +1,7 @@
 # Yang Haemi's GitHub
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yanghaemi" width="800" height="400"/>
+  <img src="https://render.gitanimals.org/farms/yanghaemi"/>
 </a>
 
 ### Tech 💻
