@@ -6,7 +6,7 @@
 
 ### Tech 💻
 
-<img alt="C++" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-FF4000.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="C++" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-FF4000.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JAVA" src ="https://img.shields.io/badge/java-FF0000.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
 <img alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
