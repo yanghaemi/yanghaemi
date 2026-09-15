@@ -4,7 +4,7 @@
 
 **백엔드 개발자** — 데이터가 흐르는 구조를 설계하고, 깨지는 지점을 먼저 찾습니다.
 
-[![Gmail](https://img.shields.io/badge/mingeunoh5312@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mingeunoh5312@gmail.com)
+[![Mail](https://img.shields.io/badge/heau0105@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heau0105@naver.com)
 [![GitHub](https://img.shields.io/badge/@yanghaemi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yanghaemi)
 
 </div>
