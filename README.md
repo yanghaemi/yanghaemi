@@ -53,7 +53,7 @@
 | 프로젝트 | 한 줄 | 스택 | 성과 |
 |---|---|---|---|
 | **불러謠** <br/> 소규모 공연 티켓 예매·공동 정산 플랫폼 | 백엔드 단독. Redis 재고와 MySQL 주문이 한 트랜잭션으로 묶이지 않는 구조에서 멱등키 선점으로 중복 주문을, 롤백 즉시 반납 + 만료 회수로 재고 유실을 차단 | Spring Boot, MySQL, Flyway, Redis, web3j (Kaia) | SSAFY 특화PJT, 6인 팀 백엔드 단독 |
-| **Cam-ON** <br/> WebRTC 실시간 미니게임 플랫폼 | 인터미션 타이머와 방장 버튼이 같은 게임을 두 번 여는 경쟁 조건을 Redis Lua CAS로 차단 | Spring Boot, Redis, WebRTC, React, TypeScript | SSAFY 공통PJT 우수상 |
+| **Cam, ON!** <br/> WebRTC 실시간 미니게임 플랫폼 | 인터미션 타이머와 방장 버튼이 같은 게임을 두 번 여는 경쟁 조건을 Redis Lua CAS로 차단 | Spring Boot, Redis, WebRTC, React, TypeScript | SSAFY 공통PJT 우수상 |
 | **너나사 부동산** <br/> 실거래·전세·정책 인사이트 | 브라우저가 단지마다 때리던 지오코딩 API를 백엔드 캐시 + 배치 프리로드로 전환, 하드코딩 연월을 제거해 자가 치유 파이프라인 구성 | Spring Boot, Python, Vue 3, Qdrant, Kakao Maps | SSAFY 관통PJT 우수상 |
 | **굴러가유** <br/> 휠체어 맞춤 지도 앱 | 팀원 역량에 맞춰 Node.js / Spring Boot / Flask 폴리글랏 MSA로 분리, 휠체어를 직접 대여해 위험 구간을 데이터화 | Node.js, Spring Boot, Flask, MariaDB, AWS EC2 | K-HACKATHON 12 장려상 |
 | **U-STAR** <br/> AI 음악 생성·감정 기반 안무 추천 | 곡 생성 → 가사 감정 분석 → 안무 매핑 → 영상 업로드 → 추천 소비까지 한 흐름으로 연결 | Spring Boot, MySQL, SUNO API, GPT API, React Native, AWS | 캡스톤디자인 경진대회 우수상 |
